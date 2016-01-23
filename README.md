@@ -1,9 +1,5 @@
-# Basic Project
+# Java 101
 
- Basic Java Maven Project Structure
-
- * QA
- * Java
- * Maven
+ Core Java Concepts
 
  [Jean-francois Nepton](http://sqasolution.com)
